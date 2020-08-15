@@ -1,7 +1,4 @@
-# JCDL Co-authorship Recommender System via GRaph Embeddings
-
-## Research Article
-JCDL_2018.pdf represents research article currently under review for JCDL Core A* conference.
+# Co-authorship Recommender System via GRaph Embeddings
 
 ## Quantatitive comparison
 Two *.xlsx tables represent results of comparison several models of feature engineering, machine learning predictive models and link embedding.
